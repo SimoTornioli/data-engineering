@@ -45,7 +45,7 @@ The ETL process is composed by 8 sequential steps:
     └── test.ipynb
 ### 5. How To Run the Project
 1. move to the project folder in your commind line and run "python create_tables.py". This command will set up the database and tables (assuming you have postgres installed and the right user permissions)
-2. run "python sql_queries.py". This command will parse the json files and will populated the database tables accordingly. 
+2. run "python sql_queries.py". This command will parse the json files and will populate the database tables accordingly. 
 
 
 
